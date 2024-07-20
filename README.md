@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @patrickeugenesacueza
+- 👋 Hi, I’m Yujin
 - 🌱 I’m currently learning Next.js
 
 <!---
