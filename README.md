@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yujin
-- 🌱 I’m currently learning Next.js
+- 🌱 Currently a full stack developer using NEXTJS (JS/TS) & Laravel RESTful API
 
 <!---
 patrickeugenesacueza/patrickeugenesacueza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
